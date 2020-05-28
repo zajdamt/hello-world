@@ -1,2 +1,3 @@
 # hello-world
 Just another repository
+ja to mozem akurat tak jebat...
